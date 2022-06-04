@@ -10,7 +10,7 @@ Green companies have been sprouting all over as the world shifts to making power
 ### Analysis of Green Company Performance
 Well, 2017 was a banner year for almost all of those companies. We saw valuations increase from 25% to almost 185%, but we had some less quality candidates that either took a small loss or had less than a 10% value increase. In 2018, we had a proverbial bloodbath. Almost everything was red, but Enphase Energy and Sunrun. That being said, these companies except for JinkoSolar, SunPower, and Terraform Power all had an increase in valuation from 2017 to the end of 2018. The biggest winners were Enphase Energy with a company value increase of over 200% and Solaredge Technologies with an increase of 175%.
 
-![Year over Year](resources/VBA_Challenge_YoY.PNG)
+![Year over Year]
 
 ### Analysis of Script Performance
 Without more data to sift through, we won't really know how well these scripts will perform with more than 12 companies. However, with our current data set, we did see the script efficiently present the data faster.   
